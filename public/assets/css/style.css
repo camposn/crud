@@ -1,0 +1,44 @@
+p{
+			text-align: center;
+			font-size: 30px;
+
+		}
+		
+		#container{
+
+			margin: 0px auto;
+			width: 90%;
+		}
+
+		.linha{
+
+			display: inline-block;
+			width: 49%;
+			margin: 0px auto;
+		}
+
+		.right{
+
+			float: right;
+		}
+
+		.baixo{
+
+			bottom: 0;
+		}
+
+		.row{
+
+			margin-bottom: 2px !important;
+		}
+
+		.card{
+
+			margin-bottom: 10px !important;
+
+		}
+
+		.curso{
+
+			display: block;
+		}
